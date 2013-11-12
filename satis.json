@@ -83,6 +83,7 @@
       { "type": "vcs", "url": "git://github.com/magento-hackathon/MageTrashApp.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/MageBehat.git" },
       { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_Newsletter.git" },
+      { "type": "vcs", "url": "git://github.com/quafzi/Magento-Productvisibility.git" },
       { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-OptimizedBackendLogin.git" },
       { "type": "vcs", "url": "git://github.com/tim-reynolds/magento-qconfig.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Magento-PSR-0-Autoloader.git" },
